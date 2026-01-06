@@ -1,5 +1,22 @@
 [
-  {"pseudonym": "constant", "collisions": 288, "timestamp": "2026-01-05T23:36:28Z"},
-  {"pseudonym": "Java", "collisions": 88, "timestamp": "2026-01-05T23:36:28Z"},
-  {"pseudonym": "Java", "collisions": 102, "timestamp": "2026-01-05T23:36:28Z"}
+  {
+    "pseudonym": "constant",
+    "collisions": 288,
+    "timestamp": "2026-01-05T23:36:28Z"
+  },
+  {
+    "pseudonym": "Java",
+    "collisions": 88,
+    "timestamp": "2026-01-05T23:36:28Z"
+  },
+  {
+    "pseudonym": "Java",
+    "collisions": 102,
+    "timestamp": "2026-01-05T23:36:28Z"
+  },
+  {
+    "pseudonym": "sneaky ES",
+    "collisions": 220,
+    "timestamp": "2026-01-06T00:51:37Z"
+  }
 ]
